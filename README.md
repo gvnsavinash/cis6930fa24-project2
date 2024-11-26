@@ -90,6 +90,12 @@ cd the-unredactor
 pipenv --python 3.12
 
 # How to Run
+
+
+
+https://github.com/user-attachments/assets/ad075ec9-5ca6-4ff3-9aab-7f64539322f0
+
+
 Once the installation is complete, you can run the project directly from the command line using the following command:
 
 bash
