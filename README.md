@@ -10,7 +10,9 @@
 "The Unredactor" is an innovative machine learning application designed to identify and reconstruct redacted names within textual datasets. Leveraging advanced Natural Language Processing (NLP) techniques and the power of RandomForestClassifier, this project aims to solve the challenge posed by the redaction of sensitive information of names in documents, which is a common practice in industries handling confidential data such as legal documents, medical records, and government files.
 
 # Project Description / Objective
-"The Unredactor" aims to develop an efficient machine learning tool to accurately restore redacted names in textual documents, enhancing data access while ensuring privacy compliance. Key objectives include:
+"The Unredactor" aims to develop an efficient machine learning tool to accurately restore redacted names in textual documents, enhancing data access while ensuring privacy compliance. 
+
+Key objectives include:
 
 Automated Unredaction: Implement machine learning to predict redacted names based on textual context.
 Advanced Text Processing: Use NLP to analyze text and extract features crucial for unredaction.
